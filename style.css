@@ -1,0 +1,18 @@
+
+.header {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.functions{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    size:0cap;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
